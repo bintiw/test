@@ -1,4 +1,4 @@
 language: bash
 
 script:
-  - grep apple fruit.txt
+  - grep apple fruits.txt
